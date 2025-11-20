@@ -1,6 +1,6 @@
-### keeping fun in computing
+#### the computer machine do things
 
-### game stuff:
+#### games:
 
 [itch.io](https://vesdev.itch.io/)
 
